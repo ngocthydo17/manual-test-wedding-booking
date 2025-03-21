@@ -1,0 +1,29 @@
+﻿@model doan.Models.AllDish
+
+<h1>Chỉnh sửa món ăn</h1>
+<form asp-action="Edit" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="name"></label>
+        <input asp-for="name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="cate"></label>
+        <input asp-for="cate" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="price"></label>
+        <input asp-for="price" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="image"></label>
+        <input asp-for="image"  class="form-control" />
+        <img src="@Model.image" width="100" height="100" />
+    </div>
+    <div class="form-group">
+        <label asp-for="mota"></label>
+        <textarea asp-for="mota" class="form-control"></textarea>
+    </div>
+    <div class="center-button-container">
+    <button type="submit" class="btn btn-primary">Lưu lại</button>
+    </div>
+</form>

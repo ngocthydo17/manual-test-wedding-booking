@@ -1,0 +1,26 @@
+﻿@model doan.Models.diuyn
+
+<h1>Chỉnh sửa</h1>
+<form asp-action="Edit" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="ten1">Tên</label>
+        <input asp-for="ten1" class="form-control" />
+    </div>
+   
+    <div class="form-group">
+        <label asp-for="gia1"></label>
+        <input asp-for="gia1" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="anh1"></label>
+        <input asp-for="anh1" class="form-control" />
+        <img src="@Model.anh1" width="100" height="100" />
+    </div>
+    <div class="form-group">
+        <label asp-for="mota1"></label>
+        <textarea asp-for="mota1" class="form-control"></textarea>
+    </div>
+    <div class="center-button-container">
+    <button type="submit" class="btn btn-primary">Lưu lại</button>
+    </div>
+</form>

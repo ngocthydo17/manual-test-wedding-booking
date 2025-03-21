@@ -1,0 +1,28 @@
+﻿@model doan.Models.Room
+
+<h1>Thêm Sảnh</h1>
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="ten">Tên</label>
+        <input asp-for="ten" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="gia">Giá</label>
+        <input asp-for="gia" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="sl">Số lượng</label>
+        <input asp-for="sl" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="anh">Ảnh</label>
+        <input asp-for="anh" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="mota">Mô tả</label>
+        <textarea asp-for="mota" class="form-control"></textarea>
+    </div>
+    <div class="center-button-container">
+    <button type="submit" class="btn btn-primary">Thêm</button>
+    </div>
+</form>

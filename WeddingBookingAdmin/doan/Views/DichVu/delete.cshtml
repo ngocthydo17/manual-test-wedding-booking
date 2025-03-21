@@ -1,0 +1,22 @@
+﻿@model IEnumerable<(string Id, doan.Models.diuyn Dish)>
+
+<h1>Xóa dịch vụ</h1>
+
+<div class="khung">
+    <h4>Bạn có muốn xóa dịch vụ này?</h4>
+
+    @foreach (var item in Model)
+    {
+        <div class="item">
+            <h5>@item.Dish.ten1</h5>
+            <img src="@item.Dish.anh1" width="400" height="400" />
+        </div>
+        <form asp-action="DeleteConfirmed" method="post">
+            <input type="hidden" name="id" asp-for="@item.Id" />
+            <div class="button-group">
+            <button type="submit" class="btn btn-danger">Xóa</button>
+            <a asp-action="Index" class="btn btn-secondary">Trở lại</a>
+            </div>
+        </form>
+    }
+</div>

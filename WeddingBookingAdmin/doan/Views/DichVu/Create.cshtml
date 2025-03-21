@@ -1,0 +1,24 @@
+﻿@model doan.Models.diuyn
+
+<h1>Tạo dịch vụ</h1>
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="ten1">Tên</label>
+        <input asp-for="ten1" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="gia1">Giá</label>
+        <input asp-for="gia1" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="anh1">Ảnh</label>
+        <input asp-for="anh1" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="mota1">Mô tả</label>
+        <textarea asp-for="mota1" class="form-control"></textarea>
+    </div>
+    <div class="center-button-container">
+        <button type="submit" class="btn btn-primary">Thêm</button>
+    </div>
+</form>

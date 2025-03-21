@@ -1,0 +1,162 @@
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\appsettings.json
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\Fbase\admin.json
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\doan.staticwebassets.runtime.json
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\doan.exe
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\doan.deps.json
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\doan.runtimeconfig.json
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\doan.dll
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\doan.pdb
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\Google.Api.CommonProtos.dll
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\Google.Api.Gax.dll
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\Google.Api.Gax.Grpc.dll
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\Google.Cloud.Firestore.dll
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\Google.Cloud.Firestore.V1.dll
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\Google.Cloud.Location.dll
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\Google.LongRunning.dll
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\Grpc.Auth.dll
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\System.Linq.Async.dll
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\System.Management.dll
+C:\Users\qynhn\source\repos\doan\doan\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\doan.csproj.AssemblyReference.cache
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\doan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\doan.AssemblyInfoInputs.cache
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\doan.AssemblyInfo.cs
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\doan.csproj.CoreCompileInputs.cache
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\doan.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\doan.RazorAssemblyInfo.cache
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\doan.RazorAssemblyInfo.cs
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\staticwebassets\msbuild.doan.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\staticwebassets\msbuild.build.doan.props
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.doan.props
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.doan.props
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\scopedcss\bundle\doan.styles.css
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\scopedcss\projectbundle\doan.bundle.scp.css
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\doan.csproj.Up2Date
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\doan.dll
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\refint\doan.dll
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\doan.pdb
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\doan.genruntimeconfig.cache
+C:\Users\qynhn\source\repos\doan\doan\obj\Debug\net8.0\ref\doan.dll
+D:\doan (1)\doan\doan\bin\Debug\net8.0\appsettings.Development.json
+D:\doan (1)\doan\doan\bin\Debug\net8.0\appsettings.json
+D:\doan (1)\doan\doan\bin\Debug\net8.0\Fbase\admin.json
+D:\doan (1)\doan\doan\bin\Debug\net8.0\doan.staticwebassets.runtime.json
+D:\doan (1)\doan\doan\bin\Debug\net8.0\doan.exe
+D:\doan (1)\doan\doan\bin\Debug\net8.0\doan.deps.json
+D:\doan (1)\doan\doan\bin\Debug\net8.0\doan.runtimeconfig.json
+D:\doan (1)\doan\doan\bin\Debug\net8.0\doan.dll
+D:\doan (1)\doan\doan\bin\Debug\net8.0\doan.pdb
+D:\doan (1)\doan\doan\bin\Debug\net8.0\Google.Api.CommonProtos.dll
+D:\doan (1)\doan\doan\bin\Debug\net8.0\Google.Api.Gax.dll
+D:\doan (1)\doan\doan\bin\Debug\net8.0\Google.Api.Gax.Grpc.dll
+D:\doan (1)\doan\doan\bin\Debug\net8.0\Google.Apis.dll
+D:\doan (1)\doan\doan\bin\Debug\net8.0\Google.Apis.Auth.dll
+D:\doan (1)\doan\doan\bin\Debug\net8.0\Google.Apis.Core.dll
+D:\doan (1)\doan\doan\bin\Debug\net8.0\Google.Cloud.Firestore.dll
+D:\doan (1)\doan\doan\bin\Debug\net8.0\Google.Cloud.Firestore.V1.dll
+D:\doan (1)\doan\doan\bin\Debug\net8.0\Google.Cloud.Location.dll
+D:\doan (1)\doan\doan\bin\Debug\net8.0\Google.LongRunning.dll
+D:\doan (1)\doan\doan\bin\Debug\net8.0\Google.Protobuf.dll
+D:\doan (1)\doan\doan\bin\Debug\net8.0\Grpc.Auth.dll
+D:\doan (1)\doan\doan\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\doan (1)\doan\doan\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\doan (1)\doan\doan\bin\Debug\net8.0\Grpc.Net.Common.dll
+D:\doan (1)\doan\doan\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\doan (1)\doan\doan\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\doan (1)\doan\doan\bin\Debug\net8.0\System.CodeDom.dll
+D:\doan (1)\doan\doan\bin\Debug\net8.0\System.Linq.Async.dll
+D:\doan (1)\doan\doan\bin\Debug\net8.0\System.Management.dll
+D:\doan (1)\doan\doan\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+D:\doan (1)\doan\doan\obj\Debug\net8.0\doan.csproj.AssemblyReference.cache
+D:\doan (1)\doan\doan\obj\Debug\net8.0\doan.GeneratedMSBuildEditorConfig.editorconfig
+D:\doan (1)\doan\doan\obj\Debug\net8.0\doan.AssemblyInfoInputs.cache
+D:\doan (1)\doan\doan\obj\Debug\net8.0\doan.AssemblyInfo.cs
+D:\doan (1)\doan\doan\obj\Debug\net8.0\doan.csproj.CoreCompileInputs.cache
+D:\doan (1)\doan\doan\obj\Debug\net8.0\doan.MvcApplicationPartsAssemblyInfo.cache
+D:\doan (1)\doan\doan\obj\Debug\net8.0\doan.RazorAssemblyInfo.cache
+D:\doan (1)\doan\doan\obj\Debug\net8.0\doan.RazorAssemblyInfo.cs
+D:\doan (1)\doan\doan\obj\Debug\net8.0\staticwebassets.build.json
+D:\doan (1)\doan\doan\obj\Debug\net8.0\staticwebassets.development.json
+D:\doan (1)\doan\doan\obj\Debug\net8.0\staticwebassets\msbuild.doan.Microsoft.AspNetCore.StaticWebAssets.props
+D:\doan (1)\doan\doan\obj\Debug\net8.0\staticwebassets\msbuild.build.doan.props
+D:\doan (1)\doan\doan\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.doan.props
+D:\doan (1)\doan\doan\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.doan.props
+D:\doan (1)\doan\doan\obj\Debug\net8.0\staticwebassets.pack.json
+D:\doan (1)\doan\doan\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\doan (1)\doan\doan\obj\Debug\net8.0\scopedcss\bundle\doan.styles.css
+D:\doan (1)\doan\doan\obj\Debug\net8.0\scopedcss\projectbundle\doan.bundle.scp.css
+D:\doan (1)\doan\doan\obj\Debug\net8.0\doan.csproj.CopyComplete
+D:\doan (1)\doan\doan\obj\Debug\net8.0\doan.dll
+D:\doan (1)\doan\doan\obj\Debug\net8.0\refint\doan.dll
+D:\doan (1)\doan\doan\obj\Debug\net8.0\doan.pdb
+D:\doan (1)\doan\doan\obj\Debug\net8.0\doan.genruntimeconfig.cache
+D:\doan (1)\doan\doan\obj\Debug\net8.0\ref\doan.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\appsettings.Development.json
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\appsettings.json
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\Fbase\admin.json
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\doan.staticwebassets.runtime.json
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\doan.exe
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\doan.deps.json
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\doan.runtimeconfig.json
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\doan.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\doan.pdb
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\Google.Api.CommonProtos.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\Google.Api.Gax.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\Google.Api.Gax.Grpc.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\Google.Apis.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\Google.Apis.Auth.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\Google.Apis.Core.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\Google.Cloud.Firestore.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\Google.Cloud.Firestore.V1.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\Google.Cloud.Location.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\Google.LongRunning.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\Google.Protobuf.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\Grpc.Auth.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\Grpc.Core.Api.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\Grpc.Net.Client.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\Grpc.Net.Common.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\System.CodeDom.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\System.Linq.Async.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\System.Management.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\doan.csproj.AssemblyReference.cache
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\doan.GeneratedMSBuildEditorConfig.editorconfig
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\doan.AssemblyInfoInputs.cache
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\doan.AssemblyInfo.cs
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\doan.csproj.CoreCompileInputs.cache
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\doan.MvcApplicationPartsAssemblyInfo.cache
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\doan.RazorAssemblyInfo.cache
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\doan.RazorAssemblyInfo.cs
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\staticwebassets.build.json
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\staticwebassets.development.json
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\staticwebassets\msbuild.doan.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\staticwebassets\msbuild.build.doan.props
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.doan.props
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.doan.props
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\scopedcss\bundle\doan.styles.css
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\scopedcss\projectbundle\doan.bundle.scp.css
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\doan.csproj.Up2Date
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\doan.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\refint\doan.dll
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\doan.pdb
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\doan.genruntimeconfig.cache
+F:\Nam3\Tester\DOAN\DoAn_20_7\DoAn_20_7\doan\doan\obj\Debug\net8.0\ref\doan.dll

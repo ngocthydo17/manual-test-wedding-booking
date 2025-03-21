@@ -1,0 +1,91 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    
+}
+.toolbar {
+    display: flex;
+    background-color: #ffe4c4;
+    padding: 5px;
+}
+
+.toolbar a {
+    color: black;
+    padding: 10px 15px;
+    text-decoration: none;
+    text-align: center;
+    transition: background-color 0.3s;
+}
+
+    .toolbar a:hover {
+        background-color: #faebd7;
+    }
+h1 {
+    text-align: center;
+    padding: 10px;
+}
+h4 {
+    text-align: center;
+    padding: 10px;
+}
+.center-button-container {
+    text-align: center;
+    margin-top: 10px;
+}
+.btn-custom {
+    display: inline-block;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: normal;
+    text-align: center;
+    color: black;
+    background-color: #ffe4c4;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+}
+
+    .btn-custom:hover {
+        background-color: #faebd7;
+    }
+
+    .btn-custom:focus {
+        outline: none;
+    }
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    margin: 0 auto;
+}
+.button-group {
+    margin: 10px auto;
+    width: fit-content;
+}
+.custom-icon-color {
+    color: black;
+}
+.khung {
+    border-style: double;
+    border: 4px solid #faebd7;
+    border-radius: 15px;
+    padding: 10px;
+}
