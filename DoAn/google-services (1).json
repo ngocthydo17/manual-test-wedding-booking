@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229314284073",
+    "project_id": "diamond-c4486",
+    "storage_bucket": "diamond-c4486.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229314284073:android:ce95446b80015b9a0dea38",
+        "android_client_info": {
+          "package_name": "com.example.doandiamond"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD77OVsMcVCfPm5tmxlqNOAVacVOOhAbdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
